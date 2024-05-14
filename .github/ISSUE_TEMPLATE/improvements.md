@@ -1,6 +1,6 @@
 ---
 name: Improvements on material
-about: Suggest an improvement for some material in Korp or Strix
+about: Suggest an improvement for some material in Karp
 labels: fix/improvement
 
 ---
