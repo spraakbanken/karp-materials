@@ -1,6 +1,6 @@
 ---
 name: New material
-about: Suggest a new material that should be included in Korp/Strix
+about: Suggest a new material that should be included in Karp
 labels: "new material"
 
 ---
